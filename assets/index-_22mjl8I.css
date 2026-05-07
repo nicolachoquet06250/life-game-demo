@@ -1,0 +1,1 @@
+*{font-family:sans-serif}@media (width<=600px){#btn-container{flex-direction:column!important;width:80%!important}#btn-container button{width:100%!important}#sidebar{display:none!important}#controls{gap:5px!important;padding:5px!important;bottom:10px!important}}.game-of-life{cursor:crosshair;background:#050505;width:100vw;height:100vh;display:block;position:fixed;inset:0}
